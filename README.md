@@ -2,8 +2,18 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Linux Bash Shell Projects </b>
+  - [File Permissions] (https://github.com/ljmbriones/Linux-Project)
+
 - <b>Security Incident Report </b>
-  - [Report Analysis](https://github.com/ljmbriones/Security-Incident-Report-Analysis)
+  - [Report Analysis] (https://github.com/ljmbriones/Security-Incident-Report-Analysis)
+ 
+- <b>SQL Projects </b>
+
+<h2>👨‍💻 PowerBI Projects:</h2>
+
+ 
+
 
 
 
